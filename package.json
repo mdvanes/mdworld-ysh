@@ -1,0 +1,22 @@
+{
+  "name": "mdworld-ysh",
+  "version": "0.9.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdvanes/mdworld-ysh.git"
+  },
+  "author": "M.D. van Es",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdvanes/mdworld-ysh/issues"
+  },
+  "homepage": "https://github.com/mdvanes/mdworld-ysh#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
